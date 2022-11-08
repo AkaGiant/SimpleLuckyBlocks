@@ -1,0 +1,7 @@
+name: SimpleLuckyBlocks
+version: '${project.version}'
+main: com.github.akagiant.simpleluckyblocks.SimpleLuckyBlocks
+api-version: 1.19
+authors: [ AkaGiant ]
+description: A SimpleLucky Block Plugin :)
+website: https://github.com/akagiant
